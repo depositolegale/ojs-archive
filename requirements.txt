@@ -1,0 +1,5 @@
+lxml==3.6.0
+MySQL-python==1.2.5
+requests==2.10.0
+SQLAlchemy==1.0.12
+-e git+https://github.com/atomotic/sickle.git@patch-1#egg=sickle
